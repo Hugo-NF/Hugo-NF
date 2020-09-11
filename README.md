@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil pessoal no GitHub :brazil: :wave:
 
-_Read this in other languages_ : [English](https://github.com/Hugo-NF/Hugo-NF/blob/master/README.en.md) :us: :uk:
+_Read this in other languages_ : [English](https://github.com/Hugo-NF/Hugo-NF/blob/master/README_en.md) :us: :uk:
 
 Meu nome é **Hugo Fonseca**. Aqui é o lugar onde você vai encontrar os repositórios das coisas legais que eu criei ou estou criando, seja pelo puro aprendizado ou para o meu uso pessoal e privado.
 
