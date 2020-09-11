@@ -15,12 +15,12 @@ Atualmente, essas são as minhas ocupações:
 4. Estagiário no time de engenharia do [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
 
 
-- 🔭 Estou atualmente trabalhando com .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, soluções em IoT, projeto de sistemas embarcados.
-- 🌱 Estou atualmente aprendendo React, React Native, Typescript, DevOps (CI & CD), MATLAB and Simulink.
+- 🔭 Estou atualmente trabalhando com .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, soluções em IoT e projeto de sistemas embarcados.
+- 🌱 Estou atualmente aprendendo React, React Native, Typescript, DevOps (CI & CD) e MATLAB/Simulink.
 - :dart: Gostaria de aprender: Rust, Go, GraphQL, Redux, MicroPython. (não necessariamente nessa ordem)
 - :paperclip: Já estudei e/ou trabalhei com C, C++, Arduino Framework, Visão computacional (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
 - 💬 Pergunte-me sobre **QUALQUER COISA**, ficarei muito feliz em ajudar
-- 📫 Entre em contato: **hugonfonseca@hotmail.com** _OR_ **hugo.fonseca@grupoorion.com.br**
+- 📫 Entre em contato: **hugonfonseca@hotmail.com** _OU_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fato curioso: Comecei a apreciar café somente após entrar para essa área.
 
 <p align="center">

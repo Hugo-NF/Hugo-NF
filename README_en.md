@@ -13,8 +13,8 @@ These are currently my occupations:
 4. Intern at the engineering team of [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
 
 
-- 🔭 I am currently working with .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, IoT solutions, embedded systems design.
-- 🌱 I am currently learning React, React Native, Typescript, DevOps (CI & CD), MATLAB and Simulink.
+- 🔭 I am currently working with .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, IoT solutions and embedded systems design.
+- 🌱 I am currently learning React, React Native, Typescript, DevOps (CI & CD) and MATLAB/Simulink.
 - :paperclip: I've studied and/or worked with C, C ++, Arduino Framework, Computer vision (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
 - :dart: Aiming to learn: Rust, Go, GraphQL, Redux, MicroPython. (not necessarily in this order)
 - 💬 Ask me about **ANYTHING**, I'd be glad to help
