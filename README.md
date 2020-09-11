@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil pessoal no GitHub :brazil: :wave:
 
-_Read this in other languages_ : [English](README.en.md) :us: :uk:
+_Read this in other languages_ : [English](https://github.com/Hugo-NF/Hugo-NF/blob/master/README.en.md) :us: :uk:
 
 Meu nome é **Hugo Fonseca**. Aqui é o lugar onde você vai encontrar os repositórios das coisas legais que eu criei ou estou criando, seja pelo puro aprendizado ou para o meu uso pessoal e privado.
 
@@ -17,7 +17,8 @@ Atualmente, essas são as minhas ocupações:
 
 - 🔭 Estou atualmente trabalhando com .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, soluções em IoT, projeto de sistemas embarcados.
 - 🌱 Estou atualmente aprendendo React, React Native, Typescript, DevOps (CI & CD), MATLAB and Simulink.
-- :paperclip: Já trabalhei e/ou estudei C, C++, Python, Machine Learning, Scala, Kotlin, VHDL.
+- :dart: Gostaria de aprender: Rust, Go, GraphQL, Redux, MicroPython. (não necessariamente nessa ordem)
+- :paperclip: Já estudei e/ou trabalhei com C, C++, Arduino Framework, Visão computacional (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
 - 💬 Pergunte-me sobre **QUALQUER COISA**, ficarei muito feliz em ajudar
 - 📫 Entre em contato: **hugonfonseca@hotmail.com** _OR_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fato curioso: Comecei a apreciar café somente após entrar para essa área.
