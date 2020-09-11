@@ -4,7 +4,7 @@ _Read this in other languages_ : [Brazilian Portuguese](https://github.com/Hugo-
 
 My name is **Hugo Fonseca**. Here is where you will find the repositories of the cool things that I created or in development, either for pure learning or for my personal and private use.
 
-:earth_americas: Location: Brasilia, Federal District, Brazil :us:
+:earth_americas: Location: Brasilia, Federal District, Brazil :brazil:
 
 These are currently my occupations:
 1. Computer Engineering student at the University of Brasília, UnB
