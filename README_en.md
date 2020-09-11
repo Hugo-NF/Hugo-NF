@@ -9,8 +9,8 @@ My name is **Hugo Fonseca**. Here is where you will find the repositories of the
 These are currently my occupations:
 1. Computer Engineering student at the University of Brasília, UnB
 2. Student-researcher at the Laboratory of Simulation and Control of Aerospace Systems (Lodestar) at the University of Brasília
-3. Member of the Administrative and Financial area of ​​[Struct - Junior Computer Engineering Company] (https://www.linkedin.com/company/struct-ej/)
-4. Intern at the engineering team of [Grupo Orion] (https://www.linkedin.com/company/grupo-orion/)
+3. Member of the Administrative and Financial area of ​​[Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/)
+4. Intern at the engineering team of [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
 
 
 - 🔭 I am currently working with .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, IoT solutions, embedded systems design.
