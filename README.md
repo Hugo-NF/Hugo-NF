@@ -22,3 +22,8 @@ Atualmente, essas são as minhas ocupações:
 - 💬 Pergunte-me sobre **QUALQUER COISA**, ficarei muito feliz em ajudar
 - 📫 Entre em contato: **hugonfonseca@hotmail.com** _OR_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fato curioso: Comecei a apreciar café somente após entrar para essa área.
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/hugo-fonseca-723a41184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hugo-NF" height="35" width="35" /></a>
+    <a href="https://www.instagram.com/huggofonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdiniz97" height="35" width="35" /></a>
+</p>

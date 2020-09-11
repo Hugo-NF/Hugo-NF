@@ -15,8 +15,13 @@ These are currently my occupations:
 
 - 🔭 I am currently working with .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, IoT solutions, embedded systems design.
 - 🌱 I am currently learning React, React Native, Typescript, DevOps (CI & CD), MATLAB and Simulink.
-- :paperclip: I've studied and/or worked with C, C ++, Arduino Framework, Python, Machine Learning, Scala, Kotlin, VHDL.
+- :paperclip: I've studied and/or worked with C, C ++, Arduino Framework, Computer vision (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
 - :dart: Aiming to learn: Rust, Go, GraphQL, Redux, MicroPython. (not necessarily in this order)
 - 💬 Ask me about **ANYTHING**, I'd be glad to help
 - 📫 How to get in touch: **hugonfonseca@hotmail.com** _OR_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fun fact: I started enjoying coffee only after joining this area.
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/hugo-fonseca-723a41184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hugo-NF" height="35" width="35" /></a>
+    <a href="https://www.instagram.com/huggofonseca/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdiniz97" height="35" width="35" /></a>
+</p>
