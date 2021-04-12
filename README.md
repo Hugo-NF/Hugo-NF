@@ -7,18 +7,19 @@ Meu nome é **Hugo Fonseca**. Aqui é o lugar onde você vai encontrar os reposi
 
 :earth_americas: Localização: Brasília, Distrito Federal, Brasil :brazil:
 
+Experiências anteriores:
+1. Membro das diretorias de Projetos e Administrativa/Financeira da [Struct - Empresa Júnior de Engenharia de Computação](https://www.linkedin.com/company/struct-ej/) - Período: 2018 até 2020
+2. Aluno-pesquisador no Laboratório de Simulação e Controle de Sistemas Aeroespaciais (Lodestar) da Universidade de Brasília - Período: 2019 e 2020
+
 Atualmente, essas são as minhas ocupações:
     
 1. Estudante de Engenharia de Computação na Universidade de Brasília, UnB
-2. Aluno-pesquisador no Laboratório de Simulação e Controle de Sistemas Aeroespaciais (Lodestar) da Universidade de Brasília
-3. Membro da área Administrativa e Financeira da [Struct - Empresa Júnior de Engenharia de Computação](https://www.linkedin.com/company/struct-ej/)
-4. Estagiário no time de engenharia do [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
+2. Engenheiro de software, em tempo integral, no time do [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
 
-
-- 🔭 Estou atualmente trabalhando com .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, soluções em IoT e projeto de sistemas embarcados.
-- 🌱 Estou atualmente aprendendo React, React Native, Typescript, DevOps (CI & CD) e MATLAB/Simulink.
+- 🔭 Estou atualmente trabalhando com .NET Core, Node, React, React Native, MS Azure, soluções em IoT e projeto de sistemas embarcados.
+- 🌱 Estou atualmente aprendendo React, React Native, Electron, Typescript e DevOps (CI & CD).
 - :dart: Gostaria de aprender: Rust, Go, GraphQL, Redux, MicroPython. (não necessariamente nessa ordem)
-- :paperclip: Já estudei e/ou trabalhei com C, C++, Arduino Framework, Visão computacional (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
+- :paperclip: Já estudei e/ou trabalhei com C, C++, Ruby (Rails), Arduino Framework, Visão computacional (OpenCV), Python, Machine Learning, Scala, Kotlin, MATLAB/Simulink, VHDL.
 - 💬 Pergunte-me sobre **QUALQUER COISA**, ficarei muito feliz em ajudar
 - 📫 Entre em contato: **hugonfonseca@hotmail.com** _OU_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fato curioso: Comecei a apreciar café somente após entrar para essa área.
