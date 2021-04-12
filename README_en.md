@@ -6,17 +6,18 @@ My name is **Hugo Fonseca**. Here is where you will find the repositories of the
 
 :earth_americas: Location: Brasilia, Federal District, Brazil :brazil:
 
+Previous experiences:
+1. Member of the Project and Administrative/Financial boards of ​​[Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/) - Period: 2018 to 2020
+2. Student-researcher at the Laboratory of Simulation and Control of Aerospace Systems (Lodestar) at the University of Brasília - Period: 2019 and 2020
+
 These are currently my occupations:
 1. Computer Engineering student at the University of Brasília, UnB
-2. Student-researcher at the Laboratory of Simulation and Control of Aerospace Systems (Lodestar) at the University of Brasília
-3. Member of the Administrative and Financial area of ​​[Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/)
-4. Intern at the engineering team of [Grupo Orion](https://www.linkedin.com/company/grupo-orion/)
+2. Software engineer, full-time, in the [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) development team.
 
-
-- 🔭 I am currently working with .NET Core, Ruby (Rails), Node, React, React Native, MS Azure, IoT solutions and embedded systems design.
-- 🌱 I am currently learning React, React Native, Typescript, DevOps (CI & CD) and MATLAB/Simulink.
-- :paperclip: I've studied and/or worked with C, C ++, Arduino Framework, Computer vision (OpenCV), Python, Machine Learning, Scala, Kotlin, VHDL.
+- 🔭 I am currently working with .NET Core, Node, React, React Native, MS Azure, IoT solutions and embedded systems design.
+- 🌱 I am currently learning React, React Native, Electron, Typescript and DevOps (CI & CD).
 - :dart: Aiming to learn: Rust, Go, GraphQL, Redux, MicroPython. (not necessarily in this order)
+- :paperclip: I've studied and/or worked with C, C ++, Arduino Framework, Computer vision (OpenCV), Python, Machine Learning, Scala, Kotlin, MATLAB/Simulink, VHDL.
 - 💬 Ask me about **ANYTHING**, I'd be glad to help
 - 📫 How to get in touch: **hugonfonseca@hotmail.com** _OR_ **hugo.fonseca@grupoorion.com.br**
 - ⚡ Fun fact: I started enjoying coffee only after joining this area.
