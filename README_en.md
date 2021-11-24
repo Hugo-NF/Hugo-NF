@@ -11,9 +11,10 @@ Computer Engineer graduated at University of Brasilia (UnB), Brazil.
 Previous experiences:
 1. Member of the Project and Administrative/Financial boards of ​​[Struct - Junior Computer Engineering Company](https://www.linkedin.com/company/struct-ej/) - Period: 2018 to 2020
 2. Student-researcher at the Laboratory of Simulation and Control of Aerospace Systems (Lodestar) at the University of Brasília - Period: 2019 and 2020
+3. Software Engineer intern, part-time, in the [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) development team - Period: aug/2019 – Dec/2020
+4. Software engineer, full-time, in the [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) development team - Period: jan/2021 até nov/2021
 
-These are currently my occupations:
-1. Software engineer, full-time, in the [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) development team.
+I'm currently searching for new challenges.
 
 - 🔭 I am currently working with .NET Core, Node, React, React Native, MS Azure, IoT solutions and embedded systems design.
 - 🌱 I am currently learning React, React Native, Electron, Typescript and DevOps (CI & CD).
