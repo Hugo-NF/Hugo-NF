@@ -22,7 +22,7 @@ Estou ativamente procurando por novos desafios.
 - :dart: Gostaria de aprender: Rust, Go, GraphQL, Redux, MicroPython. (não necessariamente nessa ordem)
 - :paperclip: Já estudei e/ou trabalhei com C, C++, Ruby (Rails), Arduino Framework, Visão computacional (OpenCV), Python, Machine Learning, Scala, Kotlin, MATLAB/Simulink, VHDL.
 - 💬 Pergunte-me sobre **QUALQUER COISA**, ficarei muito feliz em ajudar
-- 📫 Entre em contato: **hugonfonseca@hotmail.com** _OU_ **hugo.fonseca@grupoorion.com.br**
+- 📫 Entre em contato: **hugonfonseca@hotmail.com**
 - ⚡ Fato curioso: Comecei a apreciar café somente após entrar na universidade.
 
 <p align="center">
