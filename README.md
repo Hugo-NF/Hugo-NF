@@ -12,7 +12,7 @@ Engenheiro de Computação formado pela Universidade de Brasília, UnB
 Experiências anteriores:
 1. Membro das diretorias de Projetos e Administrativa/Financeira da [Struct - Empresa Júnior de Engenharia de Computação](https://www.linkedin.com/company/struct-ej/) - Período: 2018 até 2020
 2. Aluno-pesquisador no Laboratório de Simulação e Controle de Sistemas Aeroespaciais (Lodestar) da Universidade de Brasília - Período: 2019 e 2020
-3. Estagiário em desenvolvimento de software, meio período, no time do [Grupo Orion] (https://www.linkedin.com/company/grupo-orion/) - Período: agosto/2019 – dezembro/2020
+3. Estagiário em desenvolvimento de software, meio período, no time do [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) - Período: agosto/2019 – dezembro/2020
 4. Engenheiro de software, em tempo integral, no time do [Grupo Orion](https://www.linkedin.com/company/grupo-orion/) - Período: janeiro/2021 até novembro/2021
 
 Estou ativamente procurando por novos desafios.
